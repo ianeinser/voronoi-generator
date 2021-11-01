@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  max-width: 100vw;
+}
+
+body {
+  background: linear-gradient(180deg, skyblue 0%, lightblue 10%, white 20%);
+  overflow: hidden;
+}
+
+canvas {
+  /* transform: perspective(100px) rotateX(10deg) translate3d(15px, 0, 70px); */
+  width: 200vw;
+}
